@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">NasaPictureOfTheDayHomework</string>
+    <string name="app_name">01_PictureOfTheDayHomework</string>
+    <string name="next">Next</string>
+    <string name="picture_description">Picture description</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="copyright">Copyright</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_text">Input text</string>
+    <string name="search">Search</string>
+    <string name="wiki_search">Wiki Search</string>
+    <string name="enter_text">Enter text</string>
+    <string name="day_before_yesterday_s_photo">Day Before Yesterday\'s photo</string>
+    <string name="yesterday_s_photo">Yesterday\'s photo</string>
+    <string name="today_s_photo">Back to today\'s photo</string>
 </resources>
